@@ -48,7 +48,7 @@ Example Circuit
 
 **(Circuit not tested; the values were guessed at. Needs need updating.)**
 
-(Add drawing)
+.. figure:: Blinky555-schem.png
 
 BOM (Bill of Materials)
 ========================
